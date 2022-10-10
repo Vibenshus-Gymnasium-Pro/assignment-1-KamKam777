@@ -1,3 +1,2 @@
-#Logbog
-
-##tekst
+# Logbog
+## Text
